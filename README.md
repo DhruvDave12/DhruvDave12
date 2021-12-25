@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DhruvDave12/DhruvDave12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dhruv Dave**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Arcadia Webapp and Krieva SPA
+- 🌱 I’m currently learning Flutter and ML/AI
+- 👯 I’m looking to collaborate on Web related projects and technologies based on MERN Stack
+- 🤔 I’m looking for help with ML/AI, Blockchain Development
+- 💬 Ask me about Web related technologies, Flutter, DSA, CP
+- 📫 How to reach me: Mail me at 202051064@iiitvadodara.ac.in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvDave12&theme=nightowl&layout=compact&hide=html)
+[![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=DhruvDave12&theme=nightowl)](https://github.com/DhruvDave12/github-readme-stats)
