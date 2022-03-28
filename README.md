@@ -12,3 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvDave12&theme=nightowl&layout=compact&hide=html)
 [![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=DhruvDave12&theme=nightowl)](https://github.com/DhruvDave12/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvDave12&theme=nightowl&hide_border=true" alt="Dhruv's Github Streak" width="600"/>
