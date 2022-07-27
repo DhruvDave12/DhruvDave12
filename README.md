@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Dhruv Dave
 
-- 🔭 I’m currently working on The Coding Community Web Project and NextJS projects.
+- 🔭 I’m currently working on The Coding Community Web Project and Blockchain.
 - 🌱 I’m currently learning Blockchain Development, NextJS
 - 👯 I’m looking to collaborate on Web related projects and technologies based on MERN Stack, flutter, DSA
 - 💬 Ask me about Web related technologies, Flutter, DSA, CP
