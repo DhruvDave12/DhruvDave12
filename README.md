@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Dhruv Dave
 
-- 🔭 I’m currently working on The Coding Community Web Project and Blockchain.
-- 🌱 I’m currently learning Blockchain Development, NextJS
+- 🔭 I’m currently working on ISRO SSN Project and Web3 projects.
+- 🌱 I’m currently learning Blockchain Development
 - 👯 I’m looking to collaborate on Web related projects and technologies based on MERN Stack, flutter, DSA
 - 💬 Ask me about Web3, Full Stack Development, DSA
 - 📫 How to reach me: Mail me at davedhruv1201@gmail.com
