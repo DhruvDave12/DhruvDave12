@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## Dhruv Dave
 
-- 🔭 I’m currently working on ISRO SSN Project and Web3 projects.
-- 🌱 I’m currently learning Blockchain Development
-- 👯 I’m looking to collaborate on Web related projects and technologies based on MERN Stack, flutter, DSA
-- 💬 Ask me about Web3, Full Stack Development, DSA
+- 🔭 I’m currently working on Web3 + AI projects.
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on full stack web3 or AI projects 
+- 💬 Ask me about Web3, Full Stack Development, DSA, AI
 - 📫 How to reach me: Mail me at davedhruv1201@gmail.com
 
 
