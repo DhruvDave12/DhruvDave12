@@ -1,10 +1,9 @@
 ### Hi there 👋
 ## Dhruv Dave
 
-- 🔭 I’m currently working on Web3 + AI projects.
-- 🌱 I’m currently learning Generative AI
-- 👯 I’m looking to collaborate on full stack web3 or AI projects 
-- 💬 Ask me about Web3, Full Stack Development, DSA, AI
+- 🔭 I’m currently working with GobbleCube.
+- 🌱 I’m currently learning System Design and Architecture of Software Applications
+- 💬 Ask me about Software Development and system Design.
 - 📫 How to reach me: Mail me at davedhruv1201@gmail.com
 
 
